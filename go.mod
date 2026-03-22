@@ -72,7 +72,7 @@ require (
 	github.com/gostaticanalysis/forcetypeassert v0.2.0
 	github.com/gostaticanalysis/nilerr v0.1.2
 	github.com/hashicorp/go-version v1.8.0
-	github.com/jgautheron/goconst v1.8.2
+	github.com/jgautheron/goconst v1.9.0
 	github.com/jingyugao/rowserrcheck v1.1.1
 	github.com/jjti/go-spancheck v0.6.5
 	github.com/julz/importas v0.2.0
@@ -112,7 +112,7 @@ require (
 	github.com/santhosh-tekuri/jsonschema/v6 v6.0.2
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.29.0
-	github.com/securego/gosec/v2 v2.24.8-0.20260309165252-619ce2117e08
+	github.com/securego/gosec/v2 v2.25.0
 	github.com/shirou/gopsutil/v4 v4.26.2
 	github.com/sirupsen/logrus v1.9.4
 	github.com/sivchari/containedctx v1.0.3
@@ -227,9 +227,9 @@ require (
 	go.uber.org/multierr v1.10.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20260209203927-2842357ff358 // indirect
-	golang.org/x/text v0.34.0 // indirect
+	golang.org/x/text v0.35.0 // indirect
 	golang.org/x/tools/go/packages/packagestest v0.1.1-deprecated // indirect
-	google.golang.org/protobuf v1.36.8 // indirect
+	google.golang.org/protobuf v1.36.10 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
